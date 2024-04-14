@@ -27,9 +27,3 @@ Members first need to register and then login to access member facilities . If w
 member can buy basic or premium membership . With premium , you dont have to buy tickets at all , you can visit all attractions . If you buy basic membership , then you have to buy tickets 
 for any attraction you want to visit . Before buying a special deal or ticket for an  attraction , a user is asked if he know a discount code or not . If dicount code is in list of discounts , then discount
 will be applied else not . 
-
-
-
-#PLS NOTE THAT MY CODE IS WORKING AND SENT MY RELEVANT SCREENSHOT OF #BUILD FAILURE IN mvn compile to my TA Varun Parashar and Head TA Harshita Goyal of my issue .
-Also i have included screen shots of my run time . If need be , I can also run it in front of TA . 
-
